@@ -71,7 +71,7 @@ AfterSession turns that into a structured note with:
 
 ## 🌐 Website
 
-👉 https://aftersession.ai
+👉 https://www.aftersession.ai
 
 ---
 
