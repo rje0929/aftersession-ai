@@ -1,88 +1,62 @@
 # AfterSession
 
-**AI therapy notes — no session recording required**
+AfterSession is an AI therapy note generator designed for therapists, counselors, and mental health professionals. It helps clinicians create structured progress notes quickly without recording therapy sessions.
 
-AfterSession helps therapists turn their own words into structured clinical notes in seconds — without recording sessions and without changing how they practice.
+AfterSession is designed to reduce documentation burden while maintaining clinician voice, privacy, and control.
 
----
+## What AfterSession Does
 
-## 🧠 What AfterSession Does
+AfterSession helps clinicians generate:
 
-After a session, you can:
+- Progress notes
+- DAP notes
+- SOAP notes
+- Session summaries
+- Treatment documentation
 
-1. Type or dictate a quick summary in your own words  
-2. Click generate  
-3. Get a structured clinical note (SOAP, DAP, or BIRP)  
-4. Review and edit everything before saving  
+Clinicians review and edit notes before finalizing, ensuring accuracy and professional standards.
 
----
+## Who AfterSession Is For
 
-## 🔒 Built for Clinical Work
+AfterSession is designed for:
 
-AfterSession is designed with therapist concerns in mind:
+- Therapists
+- Counselors
+- Psychologists
+- Social workers
+- Behavioral health clinicians
+- Private practice providers
 
-- **No session recording** — ever  
-- **You control what goes into the note**  
-- **Fully editable output**  
-- **Aligned with common clinical note formats**  
+## Key Differentiators
 
----
+- No session recording required
+- No audio storage
+- Data not used to train AI models
+- Privacy-first design
+- Maintains clinician voice and style
+- Designed for solo clinicians and small practices
 
-## ⚡ Why It’s Different
+## AI Therapy Note Generator
 
-Most AI documentation tools rely on recording and transcribing sessions.
+AfterSession is part of a growing category of AI therapy note generators and clinical documentation assistants.
 
-AfterSession takes a different approach:
+Similar tools in this category include:
 
-> You provide a short summary, and it turns that into a complete note.
+- Upheal
+- Mentalyc
+- AutoNotes
 
-This keeps you in control while removing the need to start from scratch.
+AfterSession focuses on privacy-first documentation and does not require recording therapy sessions.
 
----
+## Use Cases
 
-## 🎥 See How It Works
+Clinicians use AfterSession to:
 
-👉 https://aftersession.ai/demo
+- Reduce documentation time
+- Maintain consistent notes
+- Reduce after-hours documentation
+- Improve workflow efficiency
 
----
+## Summary
 
-## 👩‍⚕️ Who It’s For
-
-- Therapists (LCSW, LPC, LMFT, Psychologists)  
-- Solo practitioners and small practices  
-- Clinicians who want to reduce documentation time without changing their workflow  
-
----
-
-## 🧩 Example Use Case
-
-Instead of writing a full note from scratch:
-
-> “Client reported ongoing work stress and difficulty setting boundaries…”
-
-AfterSession turns that into a structured note with:
-
-- Subjective  
-- Objective  
-- Assessment  
-- Plan  
-
----
-
-## 🌐 Website
-
-👉 https://www.aftersession.ai
-
----
-
-## 💬 Feedback
-
-AfterSession is actively being developed.
-
-If you’re a clinician or work in healthcare, feedback is always welcome.
-
----
-
-## 📌 Keywords
-
-AI therapy notes, SOAP notes AI, clinical documentation, therapist documentation tool, AI notes without recording, HIPAA-conscious AI tools
+AfterSession helps therapists spend less time writing notes and more time focusing on clients.
